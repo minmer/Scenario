@@ -23,7 +23,7 @@ namespace ScenarioCreator
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
+        public MainWindow(SMSScenario scenario)
         {
             InitializeComponent();
             SCCondition condition = new SCCondition(SMSConditionType.LogicAnd);

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ManagementSystemLibrary.Pipeline;
+using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Data;
@@ -13,5 +14,6 @@ namespace ScenarioCreator
     /// </summary>
     public partial class App : Application
     {
+        public static Pipeline Pipeline { get; set; } = new Pipeline(new ServerParametres());
     }
 }

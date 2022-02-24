@@ -117,8 +117,72 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AccountID" xml:space="preserve">
+    <value>Account ID</value>
+    <comment>Account ID</comment>
+  </data>
+  <data name="AccountName" xml:space="preserve">
+    <value>Account Name</value>
+    <comment>Account Name</comment>
+  </data>
+  <data name="Accounts" xml:space="preserve">
+    <value>Accounts</value>
+    <comment>Accounts</comment>
+  </data>
+  <data name="AddAccount" xml:space="preserve">
+    <value>Add Account</value>
+    <comment>Add Account</comment>
+  </data>
+  <data name="AddAssociation" xml:space="preserve">
+    <value>Add Association</value>
+    <comment>Add Association</comment>
+  </data>
+  <data name="AddScenario" xml:space="preserve">
+    <value>Add Scenario</value>
+    <comment>Add Scenario</comment>
+  </data>
+  <data name="AssociationID" xml:space="preserve">
+    <value>Association ID</value>
+    <comment>Association ID</comment>
+  </data>
+  <data name="AssociationName" xml:space="preserve">
+    <value>Association Name</value>
+    <comment>Association Name</comment>
+  </data>
+  <data name="Associations" xml:space="preserve">
+    <value>Associations</value>
+    <comment>Associations</comment>
+  </data>
+  <data name="DeviceName" xml:space="preserve">
+    <value>Device Name</value>
+    <comment>Device Name</comment>
+  </data>
+  <data name="LinkToExisting" xml:space="preserve">
+    <value>Link To Existing</value>
+    <comment>Link To Existing</comment>
+  </data>
   <data name="LogicAnd" xml:space="preserve">
     <value>Logical And</value>
     <comment>Logical And</comment>
+  </data>
+  <data name="NewScenario" xml:space="preserve">
+    <value>New Scenario</value>
+    <comment>New Scenario</comment>
+  </data>
+  <data name="ScenarioCreator" xml:space="preserve">
+    <value>Scenario Creator</value>
+    <comment>Scenario Creator</comment>
+  </data>
+  <data name="ScenarioID" xml:space="preserve">
+    <value>Scenario ID</value>
+    <comment>Scenario ID</comment>
+  </data>
+  <data name="ScenarioName" xml:space="preserve">
+    <value>Scenario Name</value>
+    <comment>Scenario Name</comment>
+  </data>
+  <data name="Scenarios" xml:space="preserve">
+    <value>Scenarios</value>
+    <comment>Scenarios</comment>
   </data>
 </root>

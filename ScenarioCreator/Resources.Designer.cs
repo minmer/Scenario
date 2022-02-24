@@ -61,11 +61,155 @@ namespace ScenarioCreator {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Account ID.
+        /// </summary>
+        public static string AccountID {
+            get {
+                return ResourceManager.GetString("AccountID", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Account Name.
+        /// </summary>
+        public static string AccountName {
+            get {
+                return ResourceManager.GetString("AccountName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Accounts.
+        /// </summary>
+        public static string Accounts {
+            get {
+                return ResourceManager.GetString("Accounts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add Account.
+        /// </summary>
+        public static string AddAccount {
+            get {
+                return ResourceManager.GetString("AddAccount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add Association.
+        /// </summary>
+        public static string AddAssociation {
+            get {
+                return ResourceManager.GetString("AddAssociation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add Scenario.
+        /// </summary>
+        public static string AddScenario {
+            get {
+                return ResourceManager.GetString("AddScenario", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Association ID.
+        /// </summary>
+        public static string AssociationID {
+            get {
+                return ResourceManager.GetString("AssociationID", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Association Name.
+        /// </summary>
+        public static string AssociationName {
+            get {
+                return ResourceManager.GetString("AssociationName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Associations.
+        /// </summary>
+        public static string Associations {
+            get {
+                return ResourceManager.GetString("Associations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Device Name.
+        /// </summary>
+        public static string DeviceName {
+            get {
+                return ResourceManager.GetString("DeviceName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Link To Existing.
+        /// </summary>
+        public static string LinkToExisting {
+            get {
+                return ResourceManager.GetString("LinkToExisting", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Logical And.
         /// </summary>
         public static string LogicAnd {
             get {
                 return ResourceManager.GetString("LogicAnd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New Scenario.
+        /// </summary>
+        public static string NewScenario {
+            get {
+                return ResourceManager.GetString("NewScenario", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Scenario Creator.
+        /// </summary>
+        public static string ScenarioCreator {
+            get {
+                return ResourceManager.GetString("ScenarioCreator", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Scenario ID.
+        /// </summary>
+        public static string ScenarioID {
+            get {
+                return ResourceManager.GetString("ScenarioID", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Scenario Name.
+        /// </summary>
+        public static string ScenarioName {
+            get {
+                return ResourceManager.GetString("ScenarioName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Scenarios.
+        /// </summary>
+        public static string Scenarios {
+            get {
+                return ResourceManager.GetString("Scenarios", resourceCulture);
             }
         }
     }
